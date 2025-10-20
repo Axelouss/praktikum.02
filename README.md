@@ -1,7 +1,10 @@
-# 🌐 Praktikum HTML & CSS
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=💻%20Praktikum%20HTML%20&%20CSS&fontSize=45&fontColor=ffffff&color=0:00c6ff,100:0072ff&fontAlignY=40" alt="header animasi"/>
+</p>
 
-Selamat datang di proyek **Praktikum HTML dan CSS**! 🎨  
-Repository ini dibuat untuk mempelajari dasar pembuatan halaman web menggunakan **HTML5** dan **CSS3**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0072FF&center=true&vCenter=true&width=500&lines=Selamat+Datang+di+Praktikum+HTML+dan+CSS!;Belajar+struktur+dan+desain+web+bersama!;Let's+Code+Bro+🔥" alt="Typing SVG">
+</p>
 
 ---
 
