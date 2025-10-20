@@ -1,20 +1,32 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:f72585,100:4361ee&text=💻%20HTML%20%26%20CSS%20Project&fontAlignY=40&fontColor=ffffff&fontSize=45&desc=Belajar%20Desain%20Web%20Modern&descAlign=50&descAlignY=65" />
-</p>
+# 🌐 Praktikum HTML & CSS
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=✨+Belajar+HTML+dan+CSS+dengan+Menyenangkan!;💡+Bangun+Website+Responsif+Sendiri!;🚀+From+Basic+to+Awesome!">
-</p>
+Selamat datang di proyek **Praktikum HTML dan CSS**! 🎨  
+Repository ini dibuat untuk mempelajari dasar pembuatan halaman web menggunakan **HTML5** dan **CSS3**.
 
 ---
 
-## 🎨 Tentang Proyek
+## 📚 Deskripsi
+Praktikum ini bertujuan untuk memahami cara menggabungkan HTML dan CSS dalam satu proyek.  
+HTML digunakan untuk menyusun **struktur dan isi halaman**, sedangkan CSS digunakan untuk **mengatur tampilan**, seperti warna teks, ukuran huruf, dan tata letak elemen.
 
-Repositori ini berisi **latihan HTML dan CSS dasar hingga menengah** yang bisa kamu gunakan untuk:
-- Membuat halaman web responsif 🌐  
-- Belajar animasi & efek hover 🎆  
-- Mengenal struktur web modern 🧱  
+Hasil akhirnya adalah halaman web sederhana yang tampak **lebih rapi, menarik, dan responsif**.
 
 ---
 
-## 🧩 Struktur Folder
+## 🧠 Tujuan Pembelajaran
+- Mengenal fungsi dasar tag-tag HTML  
+- Mempelajari cara menerapkan CSS eksternal  
+- Membuat tampilan web yang menarik dan mudah dibaca  
+
+---
+
+## 🧩 Teknologi yang Digunakan
+- 🌸 **HTML5**  
+- 🎨 **CSS3**
+
+---
+
+## 🚀 Cara Menjalankan
+1. Clone repository ini:
+   ```bash
+   git clone https://github.com/username/nama-repo.git
