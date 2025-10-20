@@ -1,9 +1,6 @@
+<!-- 🌌 HEADER PIXEL ANIMASI -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=💻%20Praktikum%20HTML%20&%20CSS&fontSize=45&fontColor=ffffff&color=0:00c6ff,100:0072ff&fontAlignY=40" alt="header animasi"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0072FF&center=true&vCenter=true&width=500&lines=Selamat+Datang+di+Praktikum+HTML+dan+CSS!;Belajar+struktur+dan+desain+web+bersama!;Let's+Code+Bro+🔥" alt="Typing SVG">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=🕹️%20Praktikum%20HTML%20%26%20CSS&fontSize=45&fontColor=ffffff&color=gradient&reversal=true&animation=twinkling" alt="header animasi pixel"/>
 </p>
 
 ---
